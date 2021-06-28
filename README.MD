@@ -1,6 +1,6 @@
 # Desafio Visão
 
-Este repositório contém a proposta de solução para o desafio da empresa Pix Force, pelo candidato Marrone Silvério Melo Dantas.
+Este repositório contém a proposta de solução para o desafio da empresa xxx, pelo candidato xxx.
 
 ## Descrição de arquivos
 
